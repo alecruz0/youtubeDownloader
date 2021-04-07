@@ -8,5 +8,5 @@ You need to have pytube to run it
 pip install pytube
 
 # To run
-Once you have libraries installed run the following command\n
+Once you have libraries installed run the following command<br>
 python3 youtubedonwload.py
